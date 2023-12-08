@@ -15,4 +15,16 @@ ggplot(data, aes(x = x, y = y)) +
   ggtitle("Simple Scatter Plot") +
   xlab("X Axis Label") +
   ylab("Y Axis Label")
-print("hello")
+print("hello, hi")
+
+
+
+
+
+
+
+
+
+
+
+print ("à toi de jouer")
