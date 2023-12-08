@@ -27,4 +27,4 @@ print("hello, hi")
 
 
 
-print ("à toi de jouer Khoudia")
+print ("maintenant c'est à toi de faire  la modif")
