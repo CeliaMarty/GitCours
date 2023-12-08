@@ -1,5 +1,6 @@
 # Load the ggplot2 package
 library(ggplot2)
+library(tidyverse)
 
 # Sample data
 data <- data.frame(
